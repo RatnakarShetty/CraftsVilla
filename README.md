@@ -1,5 +1,6 @@
 # CraftsVilla Ecommerce website
 
-http://www.gcreddy.com/2012/07/sample-test-plan.html
+https://docs.google.com/spreadsheets/d/1rwlRTy0gVgwV1_6QRBGmzHWHP7POvoecJR4ZT3p3IhU/edit#gid=1994738198
 
-https://www.testing-web-sites.co.uk/testing-plans-checklists/testing-plan-for-an-ecommerce-site/
+User Name: ratnabell21
+PassWord: ganesh21
